@@ -1,7 +1,7 @@
 package main
 
 import (
-"github.com/yuvarajanjohnpaul/TestRepo"
+"github.com/yuvarajanjohnpaul/TestRepo/blob/master/repo-remote.json"
 )
 
 func main() {
